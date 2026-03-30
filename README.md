@@ -47,7 +47,7 @@ A replica of the UltraEdit website layout focusing on navbar and body structure.
 ---
 
 ## 📸 Preview
- ![Preview of Bouncing Ball](/Bouncing Ball Animation-CSS/Preview of Bouncing Ball.png)
+ ![Preview of Bouncing Ball](https://github.com/Web-Development-Start-to-End/Learning-Projects-CSS/blob/50aeca54deb151627f2e0d189321af388a2a95a8/Bouncing%20Ball%20Animation-CSS/Preview%20of%20Bouncing%20Ball.png)
 
 ---
 
